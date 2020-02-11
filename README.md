@@ -1,9 +1,7 @@
 ---
 title: README
 author: Ethan Ahlquist
-date: Feb 10, 2020
-geometry: margin=3cm
-output: pdf_output
+date: Feb 10, 2019
 --- 
 
 # Purpose:
