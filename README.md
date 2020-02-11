@@ -1,7 +1,6 @@
 ---
-title: README
-author: Ethan Ahlquist
-date: Feb 10, 2019
+Author: Ethan Ahlquist
+Aate: Feb 10, 2019
 --- 
 
 # Purpose:
