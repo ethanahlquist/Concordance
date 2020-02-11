@@ -1,6 +1,6 @@
 ---
 Author: Ethan Ahlquist
-Aate: Feb 10, 2019
+Date: Feb 10, 2019
 --- 
 
 # Purpose:
